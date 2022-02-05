@@ -171,6 +171,15 @@
         "hungry"
       ],
       "id": "17"
+    },
+    {
+      "name": "nikora",
+      "species": "cow",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "18"
     }
   ]
 }
